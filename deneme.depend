@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1489593842 source:/home/farukcansoray/Desktop/program/programC/deneme/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<stdbool.h>
+
